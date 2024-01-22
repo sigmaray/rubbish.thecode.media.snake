@@ -1,6 +1,6 @@
 Nothing interesting here.
-Copy-pasting code from https://itproger.com/news/sozdanie-igri-zmeyka-na-chistom-javascript-i-html5
+Copy-pasting code from https://thecode.media/snake-js/
 Code is not mine.
 
 Hosted on GitHub Pages:
-https://sigmaray.github.io/rubbish.itproger.com.snake/
+https://sigmaray.github.io/rubbish.thecode.media.snake/
